@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.faixa {
+    background-color: #1CD1B0;
+    width: 1024px;
+    height: 38px;
+}
+
+.menu {
+    background-color: #00669F;
+    width: 1024px;
+    height: 101px;
+    left: 0px;
+    top: 38px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+h1 {
+    font-family: 'Roboto';
+    position: absolute;
+    width: 224px;
+    height: 47px;
+    left: 28px;
+    top: 66px;
+}
+
+h3 {
+    position: absolute;
+    width: 124px;
+    height: 18px;
+    left: 10px;
+    top: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+footer {
+    background-color: #00669F;
+    position: absolute;
+    width: 1024px;
+    height: 51px;
+    left: 0px;
+    top: 972px;
+}
+
+h6 {
+    position: absolute;
+    height: 19px;
+    left: 28px;
+    top: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFF9F9;
+}
+
+.conteiner {
+    position: absolute;
+    width: 834px;
+    height: 597.01px;
+    left: 112px;
+    top: 223.99px;
+}
+
+.batman {
+    position: absolute;
+    width: 135.43px;
+    height: 133.17px;
+    left: 231.57px;
+    top: 369.57px;
+}
+
+.conteiner {
+    background-color: #F3F3F3;
+}
+
+.vector {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 6.25%;
+    bottom: 6.25%;
+}
